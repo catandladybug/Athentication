@@ -1,3 +1,3 @@
 # Athentication
  
-Play Me: https://catandladybug.github.io/Athentication/
+Play Me: https://catandladybug.github.io/Leaderboard/
